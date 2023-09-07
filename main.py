@@ -9,3 +9,10 @@ def hello_world():
 @app.route("/<string:prenom>")
 def hello_person(prenom):
     return f"<p>Hello, {prenom}!</p>"
+
+def main():
+    app.run()
+
+if __name__ == '__main__':
+    main()
+
