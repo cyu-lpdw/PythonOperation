@@ -46,4 +46,6 @@ Ajoutez votre prénom à la suite de l'url pour avoir une surprise !
 
 ## Contribution
 
+Promotion 2023-2024 LP DW - CY Université
+
 ...
