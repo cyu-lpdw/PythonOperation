@@ -42,6 +42,8 @@ Ce projet est une application web Python simple construite avec Flask. Lorsqu'on
 
 Ouvrez votre navigateur web et accédez à l'URL où votre application Flask est en cours d'exécution (normalement `http://127.0.0.1:5000/`) pour voir le message "Hello, World!".
 
+Ajoutez votre prénom à la suite de l'url pour avoir une surprise !
+
 ## Contribution
 
 ...
