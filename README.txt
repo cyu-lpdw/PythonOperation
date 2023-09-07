@@ -1,0 +1,1 @@
+Avant de commencer, executer la commande "pip install -r requirements.txt" dans le terminal.

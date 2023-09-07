@@ -1,0 +1,18 @@
+# IntelliJ files
+#=======================
+**/.idea/
+**/venv/
+
+# System and Python
+#=====================
+Thumbs.db
+debug.log
+hs_err_pid*
+**/__pycache__
+
+# macOS
+#=====================
+.DS_Store
+.AppleDouble
+.LSOverride
+/.idea/runConfigurations.xml
