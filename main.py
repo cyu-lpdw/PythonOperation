@@ -1,5 +1,3 @@
-from jinja2 import Environment, FileSystemLoader
-
 from flask import Flask, render_template
 
 app = Flask(__name__)
