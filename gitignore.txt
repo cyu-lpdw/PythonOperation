@@ -1,0 +1,11 @@
+# System and Python
+#=====================
+Thumbs.db
+debug.log
+hs_err_pid*
+**/__pycache__
+
+# MacOS
+#=====================
+.DS_Store
+
