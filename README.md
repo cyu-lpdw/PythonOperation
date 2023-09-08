@@ -46,14 +46,6 @@ Ce projet est développé par les étudiants de la LP DW de la CY Université po
 
 This project is a Flask web application designed to showcase the profiles of students in the Professional License in Web Development (LP DW) at CY University. The site allows students to create and personalize their profiles, as well as for employers to discover emerging talents in the field of web development.
 
-## Features
-
-- Student sign-up and login
-- Profile creation and editing
-- Profile search and filtering
-- Section for student projects
-- Admin interface for profile management
-
 ## Installation
 
 ### Prerequisites
