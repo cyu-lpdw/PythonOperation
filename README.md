@@ -1,5 +1,5 @@
 
-# Projet Site de Profils pour la LP DW en Flask !
+# Projet Site de Profils pour la LP DW en Flask
 
 ## Description
 
