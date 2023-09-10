@@ -20,7 +20,7 @@ Ce projet est une application web en Flask destinée à présenter les profils d
     ```
 2. **Définissez la variable d'environnement FLASK_APP** :
     ```bash
-    export FLASK_APP=run.py
+    export FLASK_APP=main.py
     ```
 3. **Lancez l'application Flask** :
     ```bash
@@ -61,7 +61,7 @@ This project is a Flask web application designed to showcase the profiles of stu
     ```
 2. **Set the FLASK_APP environment variable**:
     ```bash
-    export FLASK_APP=run.py
+    export FLASK_APP=main.py
     ```
 3. **Run the Flask application**:
     ```bash
